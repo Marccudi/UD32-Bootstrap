@@ -10,9 +10,6 @@ body{
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
 }
- .loginForm{/*Falta hacer mas peque */
-    width: 50%;
-}
 
 .btnS{
     width: 100%;
