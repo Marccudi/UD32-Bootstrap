@@ -1,0 +1,25 @@
+body{
+    background-image:url(../img/fondo.jpg);
+    background-size: cover;
+}
+.caja{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+ .loginForm{/*Falta hacer mas peque */
+    width: 50%;
+}
+
+.btnS{
+    width: 100%;
+    background-color: #4addc1;
+}
+.login{
+    background-color: #e1e1e1;
+    
+
+}
